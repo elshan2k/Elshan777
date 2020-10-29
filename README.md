@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Elshan's github stats](https://github-readme-stats.vercel.app/api?Elshan_777=anuraghazra&show_icons=true)
+  ![Elshan's github stats](https://github-readme-stats.vercel.app/api?Elshan777=anuraghazra&show_icons=true)
 
 
 

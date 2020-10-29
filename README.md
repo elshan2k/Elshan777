@@ -36,14 +36,12 @@
 ➡️ [more blog posts...](https://elshan.me)
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  ![Elshan's github stats](https://github-readme-stats.vercel.app/api?username=Elshan777&show_icons=true)
+![Elshan's github stats](https://github-readme-stats.vercel.app/api?username=Elshan777&show_icons=true)
 
 
 
-</details>
+
 
 [website]: https://elshan.me
 [twitter]: https://twitter.com/elshan_777

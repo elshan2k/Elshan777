@@ -39,7 +39,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="elshan_777's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Elshan777&show_icons=true&hide_border=true" />
+  ![Elshan's github stats](https://github-readme-stats.vercel.app/api?Elshan_777=anuraghazra&show_icons=true)
+
+
 
 </details>
 

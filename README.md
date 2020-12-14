@@ -1,4 +1,4 @@
-### Hi there, I'm Elshan
+### Hi there, My name is Elshan
 
 (https://elshan.me)
 

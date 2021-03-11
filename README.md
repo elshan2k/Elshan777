@@ -1,6 +1,5 @@
 ### Hi there, My name is Elshan
 
-(https://elshan.me)
 
 ## I'm a Developer and a CS Senior!!
 

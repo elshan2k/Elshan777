@@ -1,7 +1,7 @@
 ### Hi there, My name is Elshan
 
 
-## I'm a Machine Learning Engineer and Senior Year CS student!!
+## I'm a Machine Learning Engineer and CS graduate!!
 
 ### Connect with me:
 
